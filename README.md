@@ -8,7 +8,7 @@ The purpose is to create dimensional model using star schema to optimize the dat
 
 - Following are the Staging tables which are using to populate Dimensions and Facts
 
-[![N|Solid](staging.png)]
+[![N|Solid](staging.PNG)]
 
 - Following is the Star Schema of my data model that load data from staging tables (staging_events and staging_songs) 
 
